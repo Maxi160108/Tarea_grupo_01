@@ -1,4 +1,4 @@
-ffunction generadorNumerosPrimos() {
+function generadorNumerosPrimos() {
     // Solicitar número límite al usuario
     let limite = parseInt(prompt("Ingrese un numero limite para la impresión: "))
     let arrayPrimos = []
